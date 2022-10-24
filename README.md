@@ -1,1 +1,1 @@
-# strategy-template
+# python-strategy-template
