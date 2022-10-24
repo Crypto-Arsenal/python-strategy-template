@@ -2,7 +2,7 @@
   <img  src="https://user-images.githubusercontent.com/41980722/197582397-74cbb541-0484-4434-93ff-275cb91910b1.png">
 </p>
 
-## Use these templates to get started with Crypto Arsenal
+## Use these templates to get started with Crypto Arsenal as a Quant :technologist:
 
 ### Step 1: Visit [Crypto Arsenal Strategy](https://crypto-arsenal.io/strategies)
 
