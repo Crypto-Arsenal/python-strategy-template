@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/41980722/197581408-a6203c0d-2fc6-413a-8e66-45238625f440.png)
 ![image](https://user-images.githubusercontent.com/41980722/197581447-46aa6b4f-0444-49b5-8c02-a928fb9008b4.png)
 
-### Step 4: Work with Python code in the Editor
+### Step 4: Work with Python code in the Editor | See [Documentation](https://docs.crypto-arsenal.io/docs/developer/get-started/python/hello-world)
 
 ![image](https://user-images.githubusercontent.com/41980722/197581588-2c0b6ab5-c7df-4c61-859d-953dcb173087.png)
 
